@@ -1,5 +1,5 @@
 {
-    "title": "AnnData data set",
+    "title": "AnnData dataset",
     "format": "AnnData",
     "file": "data.h5ad"
 }
