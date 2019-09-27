@@ -1,5 +1,5 @@
 {
-    "title": "tab-separated text dataset",
+    "title": "tab-separated text variant dataset",
     "format": "tab-separated text",
     "file": "data.tsv"
 }
