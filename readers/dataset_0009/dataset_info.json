@@ -1,0 +1,5 @@
+{
+    "title": "mtx v3 dataset",
+    "format": "10x (mtx)",
+    "file": "matrix.mtx.gz"
+}
