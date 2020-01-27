@@ -1,0 +1,5 @@
+{
+    "title": "AnnData dense dataset",
+    "format": "AnnData",
+    "file": "data.h5ad"
+}
