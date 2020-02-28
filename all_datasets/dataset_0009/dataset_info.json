@@ -1,5 +1,18 @@
 {
     "title": "mtx v3 dataset",
     "format": "10x (mtx)",
-    "file": "matrix.mtx.gz"
+    "file": "matrix.mtx.gz",
+    "schemaVersion": "1.0",
+    "id": "dataset-f93640431b0e4835a553325962b3adf2",
+    "description": "<h3>Description</h3><p>Some nice description with <a href=\"https://www.fastgenomics.org/\">links</a>.</p>",
+    "organism": "Mouse (Mus musculus)",
+    "tissue": "mouse embryo",
+    "preprocessing": null,
+    "numberOfCells": 0,
+    "numberOfGenes": 0,
+    "technology": "sci-RNA-seq",
+    "license": "<p>MIT</p>",
+    "webLink": "https://www.fastgenomics.org/",
+    "citation": "<p>FASTGenomics et al. 2020</p>"
 }
+ 
