@@ -1,0 +1,16 @@
+{
+  "cells": [
+    "cellA",
+    "cellB"
+  ],
+  "genes": [
+    "gene1",
+    "gene2"
+  ],
+  "expression": [
+    0,
+    1,
+    1,
+    0
+  ]
+}

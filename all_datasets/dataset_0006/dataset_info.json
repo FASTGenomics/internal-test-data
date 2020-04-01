@@ -1,5 +1,5 @@
 {
-  "title": "Other dataset",
+  "title": "No expression",
   "schemaVersion": "1.2",
   "id": "dataset-f93640431b0e4835a55332a3uk0atyph",
   "description": "<h3>Description</h3><p>Some nice description with <a href=\"https://www.fastgenomics.org/\">links</a>.</p>",
@@ -12,12 +12,12 @@
   "license": "<p>MIT</p>",
   "webLink": "https://www.fastgenomics.org/",
   "citation": "<p>FASTGenomics et al. 2020</p>",
-  "metaDataFileInfos": [],
-  "expressionDataFileInfos": [
+  "metaDataFileInfos": [
     {
-      "name": "does-not-exist.xxx",
-      "size": 0,
+      "name": "meta.txt",
+      "size": 598,
       "state": "ready"
     }
-  ]
+  ],
+  "expressionDataFileInfos": []
 }
