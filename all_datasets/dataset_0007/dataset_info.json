@@ -6,7 +6,7 @@
   "organism": "Mouse (Mus musculus)",
   "tissue": "mouse embryo",
   "preprocessing": null,
-  "numberOfCells": 2,
+  "numberOfCells": 3,
   "numberOfGenes": 2,
   "technology": "sci-RNA-seq",
   "license": "<p>MIT</p>",
@@ -16,7 +16,7 @@
   "expressionDataFileInfos": [
     {
       "name": "data.fg",
-      "size": 139,
+      "size": 166,
       "state": "ready"
     }
   ]
